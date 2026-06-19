@@ -1,0 +1,15 @@
+# Tooling / local-only
+.claude/
+.vercel/
+node_modules/
+*.log
+
+# Design handoff bundle (reference only — not part of the site)
+brief_extract/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# image-slot sidecar (runtime state)
+.image-slots.state.json
