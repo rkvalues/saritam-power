@@ -5,7 +5,7 @@ Each file links to its Commons page, where the exact author and licence
 (public domain / CC-BY / CC-BY-SA) are listed.
 
 > Recommendation: before going fully live, review each licence and ideally
-> replace these with JMR Power Infra's own project photography.
+> replace these with Saritam Power's own project photography.
 
 | File | Source (Wikimedia Commons) |
 |------|----------------------------|

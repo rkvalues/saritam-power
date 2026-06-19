@@ -1,6 +1,6 @@
-# JMR Power Infra — website
+# Saritam Power — website
 
-Marketing site for **JMR Power Infra Pvt Ltd** — solar EPC, manufacturing and power
+Marketing site for **Saritam Power** — solar EPC, manufacturing and power
 infrastructure. Clean energy, green energy across India.
 
 Static site: **vanilla HTML / CSS / JS**, no build step. The signature "torch"
