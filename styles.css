@@ -377,6 +377,8 @@ a{ color:inherit; text-decoration:none; }
   font-family:var(--font-mono); font-size:11px; letter-spacing:.08em; color:rgba(147,187,255,0.65);
   max-width:80%;
 }
+/* Real photo filling a media slot (sits over the torch grid, under any scrim) */
+.img-real{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; }
 
 /* ===================================================================
    PAGE HERO (sub-pages)
