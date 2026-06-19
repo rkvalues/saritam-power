@@ -13,3 +13,5 @@ Thumbs.db
 
 # image-slot sidecar (runtime state)
 .image-slots.state.json
+
+.vercel
